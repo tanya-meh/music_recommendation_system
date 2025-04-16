@@ -2,6 +2,7 @@
 Python content-based music recommendation system
 
 Music Recommendation System
+
 Discover your next favorite songs with a machine learning-based music recommendation system! This project utilizes data processing, vectorization, and similarity metrics to suggest tracks based on features or lyrics.
 
 
